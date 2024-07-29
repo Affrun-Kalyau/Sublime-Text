@@ -2,7 +2,7 @@
 
 **Download Sublime Text on windows!**
 
-<img src="https://github.com/Affrun-Kalyau/Sublime-Text/blob/main/What-is-Sublime-Text-2c86b.jpg"/>
+<img src="https://github.com/Affrun-Kalyau/Sublime-Text/blob/main/Untitled.jpg"/>
 
 **Downloading Sublime Text from GitHub can be beneficial for several reasons:**
 
