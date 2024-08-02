@@ -2,7 +2,7 @@
 
 **Download Sublime Text on windows!**
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 30px;">
   <img src="Untitled.jpg" alt="Windows Logo">
 </p>
 
