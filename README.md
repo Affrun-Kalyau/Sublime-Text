@@ -1,6 +1,5 @@
-# Sublime-Text
+# **Download Sublime Text on windows!**
 
-**Download Sublime Text on windows!**
 
 <p align="center" style="margin-top: 30px;">
   <img src="text2.png" alt="Windows Logo">
