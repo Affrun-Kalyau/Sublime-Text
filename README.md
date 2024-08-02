@@ -2,6 +2,10 @@
 
 **Download Sublime Text on windows!**
 
+<p align="center" style="margin-top: 20px;">
+  <img src="Untitled.jpg" alt="Windows Logo">
+</p>
+
 <img src="https://github.com/Affrun-Kalyau/Sublime-Text/blob/main/Untitled.jpg"/>
 
 **Downloading Sublime Text from GitHub can be beneficial for several reasons:**
